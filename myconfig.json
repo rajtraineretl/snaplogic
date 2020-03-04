@@ -1,0 +1,11 @@
+{
+  "fileInfo": {
+      "fileDir": "s3:///snapgologica/inbound/",
+      "csvFile": "emp.csv",
+      "jsonFile": "emp.json"
+    },
+  "acntInfo": {
+      "sqlInfo": "MySQLAWS",
+      "s3Info": "MyAwsS3"
+    }
+}
